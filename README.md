@@ -1,7 +1,4 @@
-# 5W2H-Skill-for-PM
-Prompt-based 5W2H toolkit for Product Managers: Bridge the gap between UX psychology, AI logic, and engineering implementation.
 # 🚀 5W2H-Skill-for-PM：高质感需求定义与对齐框架
-
 > **基于心理学洞察与 AI 逻辑的产品经理需求工具包**
 
 ## 📖 项目简介
