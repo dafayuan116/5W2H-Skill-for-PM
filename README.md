@@ -14,11 +14,11 @@
 - `examples.md`：可复用的对话与交付示例
 
 ## 使用方式
-直接 Clone 下来运行 python3 start_skill.py。
+直接 Clone 下来运行 python3 start_skill.py
 
 复制仓库里的 5w2h-core-engine.md 投喂给任意 AI 对话
 
-我一般会把本仓库克隆到本地并用 Cursor 打开后，该 Skill 会作为**项目级 Skill**被自动发现与使用。
+（我一般会把本仓库克隆到本地并用 Cursor 打开后，该 Skill 会作为**项目级 Skill**被自动发现与使用）
 
 ## 5W2H 核心框架（Psychology & UX 速记）
 
