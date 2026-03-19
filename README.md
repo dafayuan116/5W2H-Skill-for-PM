@@ -13,11 +13,14 @@
 - `prompt.md`：完整 System Prompt（可直接复制为系统提示词）
 - `examples.md`：可复用的对话与交付示例
 
-## 使用方式
-直接 Clone 下来运行 python3 start_skill.py
+## 逻辑结构图解：
+输入层（5W2H）：通过 5W2H（Why/Who/What/When/Where/How/How much）把 PRD 里的散点逻辑抓出来。
 
-复制仓库里的 5w2h-core-engine.md 投喂给任意 AI 对话
+判断层（身份识别）：
+ 如果是专业 PM：信息多、逻辑深 -> 走**【标准施工模式】**（去虚向实，出契约）。
+ 如果是售前/业务：信息少、想法飘 -> 走**【业务显影模式】**（脑补方案，出 Demo）。
 
+输出层（角色分发）：不再给出一整块文字，而是强制拆成**“给设计、给研发、给测试”**三个独立的包裹。
 
 ## 5W2H 核心框架（Psychology & UX 速记）
 
