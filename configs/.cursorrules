@@ -1,0 +1,13 @@
+# 5W2H-Skill-for-PM Cursor Rule
+
+# Context
+Whenever you process a document (PDF, Word, Images) or discuss a new feature, you must strictly follow the 5W2H product analysis framework.
+
+# Behavior
+1. Automatically scan files added to the project for product-related keywords.
+2. When the user asks "分析这个" or "分析 @file", apply the 5W2H-Skill.
+3. Output a structured PRD outline based on: What, Why, Who, When, Where, How, and How Much.
+
+# Style
+- Professional, concise, and data-driven.
+- Use Mermaid diagrams for "How" (process flows) if applicable.
