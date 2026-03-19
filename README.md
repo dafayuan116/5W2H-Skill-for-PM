@@ -1,5 +1,5 @@
 # 5W2H Skill for PM：需求定义与对齐（Psychology & UX Edition）
-![Uploading unnamed (7).png…]()
+<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/f9c928ff-2841-4091-8efb-36efc881e98c" />
 
 
 本 Skill 旨在解决产研协作中“需求描述模糊、评审效率低、角色关注点错位”的痛点。通过 5W2H 标准框架 强制提取业务干货，并自动转化为设计、研发、测试可直接施工的“干货包”。
