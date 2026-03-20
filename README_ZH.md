@@ -60,9 +60,7 @@ Scenario B: Web-based LLM (ChatGPT / Claude / Doubao)The "Plug-and-Play" solutio
 
 - Highlight: Best for quick brainstorming and formatting long documents.
 
-Scenario C: Custom Agent / Enterprise AI Platform
-
-Standardize your team's output.
+Scenario C: Custom Agent / Enterprise AI Platform. Standardize your team's output.
 
 - Setup: Paste the 5W2H Prompt into the "System Instructions" or "Persona" of your AI Agent.
 
